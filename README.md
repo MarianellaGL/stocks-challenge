@@ -28,4 +28,4 @@ Bajo la premisa dada, el desafío fue la correcta implementación de los siguien
 Para la visual se elegió mantenerse minimalista tratando de no marear ni llenar de información al usuario. 
 
 ## Cómo correr el proyecto: 
-Para correr el challenge, se debe bajar el repositorio, hacer ###npm install, y luego debidamente correrá con ###npm run dev. El endpoint de valores de stock aguarda una variable de entorno: ###VITE_STOCK_API_KEY cual será provista al logearse en la pagina de twelveData. 
+Para correr el challenge, se debe bajar el repositorio, hacer *npm install*, y luego debidamente correrá con *npm run dev*. El endpoint de valores de stock aguarda una variable de entorno: *VITE_STOCK_API_KEY* cual será provista al logearse en la pagina de twelveData. 
