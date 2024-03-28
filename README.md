@@ -19,7 +19,7 @@ La estructura de de carpetas contempla un poco la idea de atomic design, tratand
 ## Endpoints:
 Bajo la premisa dada, el desafío fue la correcta implementación de los siguientes endpoints:
 
-[Endpoint para obtener los valores de un stock] (https://api.twelvedata.com/time_series?symbol=TSLA&interval=5min&start_date=2021-04-16%2009:48:00&end_date=2021-04-16%2019:48:00&apikey=*************)
+[Endpoint para obtener los valores de un stock](https://api.twelvedata.com/time_series?symbol=TSLA&interval=5min&start_date=2021-04-16%2009:48:00&end_date=2021-04-16%2019:48:00&apikey=*************)
 [Endpoint de búsqueda para el autocomplete](https://api.twelvedata.com/stocks?symbol=NFLX&amp;source=docs)
 [Endpoint para tabla de stocks](https://api.twelvedata.com/stocks)
 
