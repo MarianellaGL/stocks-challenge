@@ -16,6 +16,9 @@
  
 ## Arquitectura
 La estructura de de carpetas contempla un poco la idea de atomic design, tratando de modularizar la logica lo mayor posible y separar las pages de los componentes que sean presentacionales y contenedores.
+- Utils : contiene todas las funciones auxiliares y las interfaces de Typescript, se elegió esta ubicación para las interfaces debido a que es un único archivo ya que no eran muchas las necesidades de tipado.
+- Pages: contiene las dos paginas, el Dashboard y el Detail de la acción ambas contienen la lógica de llamado y actualización de los endpoints.
+- Componentes: cada componente está modularizado y generado para poder contemplar la posibilidad de escalar la aplicación en caso de ser necesario.
  
 ## Endpoints:
 Bajo la premisa dada, el desafío fue la correcta implementación de los siguientes endpoints:
