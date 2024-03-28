@@ -8,7 +8,7 @@
 - React Js
 - Typescript
 - Highcharts
-- React Highcharts Official
+- Highcharts React Official
 - Tailwind Css
 - useDebounce
 - SWR
