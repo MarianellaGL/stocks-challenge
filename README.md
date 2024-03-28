@@ -9,6 +9,7 @@
 - Typescript
 - Highcharts
 - Tailwind Css
+- useDebounce
 - SWR
 - React-router-dom
 - Toastify
