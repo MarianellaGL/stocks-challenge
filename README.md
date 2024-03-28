@@ -27,5 +27,13 @@ Bajo la premisa dada, el desafío fue la correcta implementación de los siguien
 
 Para la visual se elegió mantenerse minimalista tratando de no marear ni llenar de información al usuario. 
 
+Viste del dashboard:
+![image](https://github.com/MarianellaGL/stocks-challenge/assets/53187007/806b11c1-0adf-456e-b8e2-cd308aeb19be)
+
+Vista del detalle de acciones: 
+![image](https://github.com/MarianellaGL/stocks-challenge/assets/53187007/1be2a52c-2cf8-49cf-8207-be04c1375553)
+
+
+
 ## Cómo correr el proyecto: 
-Para correr el challenge, se debe bajar el repositorio, hacer *npm install*, y luego debidamente correrá con *npm run dev*. El endpoint de valores de stock aguarda una variable de entorno(debe agregarse el .env en el root): *VITE_STOCK_API_KEY* , la cual será provista al logearse en la pagina de twelveData. 
+Para correr el challenge, se debe bajar el repositorio, hacer `npm install`, y luego debidamente correrá con `npm run dev`. El endpoint de valores de stock aguarda una variable de entorno(debe agregarse el .env en el root): *VITE_STOCK_API_KEY* , la cual será provista al logearse en la pagina de twelveData. 
